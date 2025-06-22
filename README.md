@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahsan
 - 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Flutter and its backend
+- 🌱 Flutter developer full stack 
 - 💞️ I’m looking to collaborate with FlutterCommunity 
 - 📫 How to reach me ahsanwaqar0078gmail.com
 - 😄 Pronouns: hehe
