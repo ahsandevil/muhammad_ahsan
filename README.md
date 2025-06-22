@@ -6,7 +6,5 @@
 - 😄 Pronouns: hehe
 - ⚡ Fun fact: i hate coding
 
-<!---
-ahsandevil/ahsandevil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+connect me through social media:
+linkedin profile link: www.linkedin.com/in/ahsan-waqar-a9159a22a
